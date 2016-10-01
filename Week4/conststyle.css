@@ -1,0 +1,7 @@
+body {
+  /* #ccc is shorthand HEX for a light grey */
+  background: #a9f9ef;
+}
+li{
+	display: inline;
+}
