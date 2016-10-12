@@ -1,0 +1,14 @@
+body{
+	background-color: #ccc;
+}
+
+.mischools{
+	background-color: #fff;
+}
+
+#msu h1 {
+	color: green;
+}
+#umich h1 {
+		color: blue;
+}
