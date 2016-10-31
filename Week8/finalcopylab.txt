@@ -1,0 +1,24 @@
+Final Project Copy Lab 
+
+Content sections:
+
+Section 1: Lauren's Bio
+	I am a Computer Sciecne student at Michigan State University. I really love what I study and don't only enjoy in the class room, but outside of it as well! When I'm not in the MSU Engineering Building writing programs, I may be at a hackathon or in my room reading books about algorithms. Other activities I enjoy participating in are swimming, boating, and snowboarding. Spending time with my friends and family is important to me, therefore when I have the opportunity to participate in activities I enjoy with people I love I am very happy.   
+
+
+Section 2: Photo Gallery
+	Here are some photos I have taken! I have taken photos of places I have been and lived. It is wonderful to capture special moments and beautiful scenes that make you appreciate life.
+	
+
+Section 3: Resume
+	If you are a prospective employer and think I may be a good candidate please download my resume to get more information about my past work experience and qualifications! 
+
+
+Section 4: Projects
+	Here is a compilation of projects I have worked on! These projects are ones that I have done for classes and also personally for myself. Included also, are projects I am currently working on and ideas for projects I plan to implement in the future. The diverse works are here to exemplify my diverse skills and creativity. You can also visit my GitHub profile for more details https://github.com/maliklau.
+
+
+Section 5: Contact Information
+	If you have any suggestions regarding this website or any of its content, please fill out this forum. 
+	If you are looking to contact me for professional reasons please email me at malikl0799@gmail.com or visit my LinkedIn profile https://www.linkedin.com/in/maliklauren.
+
