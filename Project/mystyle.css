@@ -1,0 +1,70 @@
+body {
+    background: #fff;
+    margin: auto 0;
+}
+h1{
+    margin: auto 0;
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+    font-size: 125px;
+}
+header{
+    background: #2AD5C3;
+    position: relative;
+}
+.bioclass img{
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 7px solid #2AD5C3;
+    max-width: 35%;
+}
+.nav-link{
+    color: #000;
+    font-family: Courier;
+    font-size: 35px;
+    text-decoration: none;
+    padding-right: 35px;
+    padding-bottom: 10px;
+    padding-left: 60px;
+    padding-top: 10px;
+}
+.mypage h2{
+    color: #000;
+    font-family: Courier;
+    font-size: 50px;
+    text-align: center;
+}
+.mypage p{
+    font-family: Courier;
+    font-size: 25px;
+    padding-right: 70px;
+    padding-bottom: 50px;
+    padding-left: 70px;
+    text-align: justify;
+    text-align: center;
+}
+.expclass{
+    text-align: left;
+    padding-bottom: 30px;
+}
+.expclass img{
+    box-shadow: 25%;
+    max-width: 10%;
+    display: inline-block;
+    margin: 0 0 0 300px;
+}
+.contactclass{
+    text-align: center;
+    padding-bottom: 30px;
+}
+.contactclass img{
+    border-radius: 50%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5), 0 6px 20px 0 rgba(0, 0, 0, 0.20);
+    box-shadow: 25%;
+    max-width: 10%;
+    display: inline-block;
+    margin: 0 40px 0 0;
+
+}
