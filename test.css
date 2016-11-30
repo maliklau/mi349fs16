@@ -1,0 +1,15 @@
+table { background: black; color: white;}
+                body, td {
+                        font: 13px sans-serif;
+                }
+                #stickyheader {
+                        width: 100%;
+                        height: 10px;
+                }
+                #stickyalias {
+                  display: none;
+                  height: 10px;
+                }
+                #unstickyheader {
+                  margin-bottom: 15px;
+                }
