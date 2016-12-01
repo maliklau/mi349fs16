@@ -30,8 +30,6 @@ header{
 .header nav{
     background-color: #2AD5C3;
     width: 100%;
-    /*top: 0;
-    position: fixed;*/
 }
 .border img{
     border: 7px solid #2AD5C3;
@@ -71,7 +69,7 @@ header{
     font-family: Courier;
     font-size: 50px;
     text-align: center;
-    padding-top: 50px;
+    padding-top: 25px;
 }
 .mypage p{
     font-family: Courier;
@@ -81,6 +79,13 @@ header{
     padding-left: 70px;
     text-align: justify;
     text-align: center;
+}
+.hi p{
+    padding-bottom: 0px;
+}
+.galleryclass p{
+    padding-bottom: 10px;
+    padding-left: 6px;
 }
 .expclass{
     text-align: left;
@@ -109,4 +114,26 @@ header{
     padding-top: 227px;
     position: absolute;
     z-index: auto;
+}
+.contp p{
+    padding-bottom: 7px;
+}
+.images{
+    margin-left: 250px;
+    padding-right: 25px;
+}
+.images img{
+    filter: grayscale(100%);
+    -webkit-filter: grayscale(100%);
+    -moz-filter: grayscale(100%);
+    filter: grayscale(100%);
+    filter: gray;
+    -webkit-filter: grayscale(1);
+}
+.images img:hover{
+    filter: grayscale(0%);
+    -webkit-filter: grayscale(0%);
+    -moz-filter: grayscale(0%);
+    filter: grayscale(0%);
+    -webkit-filter: grayscale(0);
 }
