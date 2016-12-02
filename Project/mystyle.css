@@ -27,6 +27,42 @@ header{
     position: relative;
 
 }
+.lifeguard img{
+    height: 100px;
+    width: 100px;
+}
+.martinrea img{
+    height: 145px;
+    width: 195px;
+    padding-bottom: 20px;
+}
+
+.union img{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
+.mentor img{
+    height: 95px;
+    width: 90px;
+}
+.resume nav{
+    background-color: #2AD5C3;
+    width: 17%;
+    height: 33px;
+    margin: 0 auto;
+    /*border: 2px solid #000;*/
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5), 0 6px 20px 0 rgba(0, 0, 0, 0.20);
+    box-shadow: 25%;
+}
+.resume a{
+    color: #000;
+    font-family: Courier;
+    font-size: 22px;
+    text-decoration: none;
+    text-align: center;
+}
+
 .header nav{
     background-color: #2AD5C3;
     width: 100%;
@@ -70,6 +106,30 @@ header{
     font-size: 50px;
     text-align: center;
     padding-top: 25px;
+    line-height: 0.5;
+    text-align: center;
+}
+.mypage span{
+    display: inline-block;
+    position: relative; 
+}
+.mypage span:before,
+.mypage span:after {
+  content: "";
+  position: absolute;
+  height: 12px;
+  border-bottom: 3px solid #2AD5C3;
+  /*border-top: 3px solid #2AD5C3;*/
+  top: 0;
+  width: 150px;
+}
+.mypage span:before {
+  right: 100%;
+  margin-right: 15px;
+}
+.mypage span:after {
+  left: 100%;
+  margin-left: 15px;
 }
 .mypage p{
     font-family: Courier;
