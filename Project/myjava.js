@@ -1,14 +1,19 @@
-$(function(){
-        // Check the initial Poistion of the Sticky Header
-        var stickyHeaderTop = $('stick').offset().top;
- 
-        $(window).scroll(function(){
-                if( $(window).scrollTop() > stickyHeaderTop ) {
-                        $('stick').css({position: 'fixed', top: '0px'});
-                        $('stick').css('display', 'block');
-                } else {
-                        $('stick').css({position: 'static', top: '0px'});
-                        $('stickyalias').css('display', 'none');
-                }
-        });
-  });
+// Get the modal
+
+// Get the image and insert it inside the modal - use its "alt" text as a caption
+var img = document.getElementById('tree');
+var modalImg = document.getElementById("img01");
+var captionText = document.getElementById("caption");
+img.onclick = function(){
+    modal.style.display = "block";
+    modalImg.src = this.src;
+    captionText.innerHTML = this.alt;
+}
+
+// Get the <span> element that closes the modal
+var span = document.getElementsByClassName("close")[0];
+
+// When the user clicks on <span> (x), close the modal
+span.onclick = function() { 
+  modal.style.display = "none";
+}
